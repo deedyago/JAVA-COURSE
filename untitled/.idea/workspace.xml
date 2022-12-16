@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e43633d1-ac29-4868-abdc-a449244f16be" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/../src/main.homework/Homework2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e43633d1-ac29-4868-abdc-a449244f16be" name="Changes" comment="java homework2 DONE">
+      <change afterPath="$PROJECT_DIR$/../src/main.homework/Homework3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669948370003</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="java homework2 DONE">
+      <created>1670356484706</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670356484706</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +207,7 @@
     <MESSAGE value="Homework_1_doneee" />
     <MESSAGE value="kek" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="java homework2 DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="java homework2 DONE" />
   </component>
 </project>
